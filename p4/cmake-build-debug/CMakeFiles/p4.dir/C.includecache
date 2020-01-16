@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Stefan_Xu/Desktop/CSI4337/p4/BinaryTreeWriter.c
+stdint.h
+-
+stdio.h
+-
+stdlib.h
+-
+errno.h
+-
+time.h
+-
+
